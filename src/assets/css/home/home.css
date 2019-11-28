@@ -1,0 +1,67 @@
+.item-div {
+  border-radius: 16px;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  vertical-align: middle
+}
+
+
+
+.item-div img {
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px
+}
+
+.item-div-text {
+  color: #7d7e80;
+  font-size: 12px;
+  word-wrap: break-word;
+  line-height: 25px;
+}
+
+.bg1 {
+  background: rgba(57, 158, 250, 1);
+}
+
+.bg2 {
+  background: rgba(255, 178, 9, 1);
+}
+
+.bg3 {
+  background: rgba(253, 154, 73, 1);
+}
+
+.bg4 {
+  background: rgba(237, 96, 73, 1);
+}
+
+.bg5 {
+  background: rgba(114, 210, 130, 1);
+}
+
+.bg8 {
+  background: rgba(128, 194, 105, 1);
+}
+
+.bg9 {
+  background: rgba(68, 197, 255, 1);
+}
+
+.bg10 {
+  background: rgba(97, 214, 196, 1);
+}
+
+.bg14 {
+  background: rgba(57, 158, 250, 1);
+}
+
+.userInfo-wrap {
+  width: 100%;
+  height: 110px;
+  padding-top: 1px;
+  background: url('~@/assets/img/home/bg.png');
+  position: relative;
+}
