@@ -1,0 +1,8 @@
+.vs
+bin
+obj
+
+ZhejiangGovernmentDingTalkServer.sln
+ZhejiangGovernmentDingTalkServer.csproj.user
+Web.Release.config
+Web.Debug.config

@@ -1,0 +1,10 @@
+[{
+  "Key": null,
+  "Text": "公文管理",
+  "ImgSrc": "Extensions/ZhejiangGovernmentDingTalkServer/Img/Home/Modules/icon_work.png",
+  "Bg": "rgba(57, 158, 250, 1)",
+  "IfInfo": false,
+  "Info": "",
+  "MethodName": null,
+  "RouteName": "收发文"
+}]
